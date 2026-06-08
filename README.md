@@ -1,10 +1,10 @@
-# 🤖 Agente Text-to-SQL com LLM
+#  Agente Text-to-SQL com LLM
 
 Agente inteligente que converte perguntas em linguagem natural para consultas SQL, executa no banco de dados e responde em português — sem o usuário precisar saber nada de SQL.
 
 ---
 
-## 💡 Como funciona
+##  Como funciona
 
 ```
 Usuário faz uma pergunta em português
@@ -22,7 +22,7 @@ Usuário recebe a resposta com contexto do histórico
 
 ---
 
-## 🧠 Arquitetura
+##  Arquitetura
 
 O agente é composto por 4 camadas principais:
 
@@ -36,7 +36,7 @@ O agente é composto por 4 camadas principais:
 
 ---
 
-## 📊 Exemplos de perguntas
+##  Exemplos de perguntas
 
 | Pergunta | SQL gerado |
 |---|---|
@@ -47,7 +47,7 @@ O agente é composto por 4 camadas principais:
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - **Groq API** — LLM rápido e gratuito (LLaMA 3.3 70B)
 - **SQLite** — banco de dados leve, sem necessidade de servidor
@@ -55,7 +55,7 @@ O agente é composto por 4 camadas principais:
 
 ---
 
-## 🛡️ Funcionalidades
+##  Funcionalidades
 
 - ✅ Conversão de linguagem natural para SQL
 - ✅ Guardrail para perguntas fora do escopo
@@ -65,7 +65,7 @@ O agente é composto por 4 camadas principais:
 
 ---
 
-## 🚀 Como executar
+## Como executar
 
 1. Acesse o notebook pelo Google Colab
 2. Crie uma conta gratuita em [console.groq.com](https://console.groq.com) e gere uma API key
@@ -74,8 +74,8 @@ O agente é composto por 4 camadas principais:
 
 ---
 
-## 👤 Autor
+
 
 **Yago Oliveira**  
 Cientista de Dados | Staff AI Engineer  
-[GitHub](https://github.com/euyagooliveira) · [Kaggle](https://www.kaggle.com/euyagooliveira)
+[GitHub](https://github.com/euyagooliveira) 
